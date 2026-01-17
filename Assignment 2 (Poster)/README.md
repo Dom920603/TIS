@@ -1,1 +1,3 @@
-
+# 💡Reflection
+Attending the PPG Industry Talk was a valuable experience that helped me understand how different IT departments work together in a real global company and highlighted the importance of IT in an organisation. From the data analytics team, I learned how raw data is analysed and transformed into useful information to support better decision-making. The cloud team explained how cloud systems are used to store data and run applications smoothly for global operations, while the SAP team shared how combining many ERP systems into one SAP S/4 HANA system improves efficiency and ensures data consistency. Overall, the talk was informative and helped connect the knowledge learned from books to real industry practices. 
+For improvement, I think the session could include more real-life examples and case studies to help me understand the concepts more clearly.
