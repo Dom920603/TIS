@@ -1,3 +1,2 @@
-💡Reflection
--
+# 💡Reflection
 Attending the UTM Digital Open Day was a really enjoyable and eye-opening experience for us. By visiting UTM Digital, I gained a better understanding of how the knowledge we learn in class is applied in the industry. The talk made me realise that proper planning, effective communication, and teamwork are essential skills in system development. Moreover, the interview sessions inspired me to understand the importance of personal value, which can be built through strong fundamental knowledge and real-world experience. Overall, this visit motivated us to improve ourselves and feel more prepared for our future in the technology field.
